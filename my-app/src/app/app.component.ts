@@ -5,6 +5,8 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
+// this is the root component "AppComponent"
 export class AppComponent {
-  title = 'app';
+  title = 'My First Angular App';
 }
